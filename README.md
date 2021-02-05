@@ -1,5 +1,7 @@
 # Welcome to the Windows Package Manager Client (aka winget.exe) repository
 
+thisIsNOOOOTCorrrrectlySpelllled
+
 This repository contains the source code for the Windows Package Manager Client (aka winget.exe).
 
 ![winget install Microsoft.WindowsTerminal](.github/images/WingetInstallTerminal.gif)
